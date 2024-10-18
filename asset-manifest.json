@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ConfigLab-Assignment-3/static/css/main.b2448903.css",
+    "main.js": "/ConfigLab-Assignment-3/static/js/main.d683be51.js",
+    "static/js/453.35fd161e.chunk.js": "/ConfigLab-Assignment-3/static/js/453.35fd161e.chunk.js",
+    "index.html": "/ConfigLab-Assignment-3/index.html",
+    "main.b2448903.css.map": "/ConfigLab-Assignment-3/static/css/main.b2448903.css.map",
+    "main.d683be51.js.map": "/ConfigLab-Assignment-3/static/js/main.d683be51.js.map",
+    "453.35fd161e.chunk.js.map": "/ConfigLab-Assignment-3/static/js/453.35fd161e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2448903.css",
+    "static/js/main.d683be51.js"
+  ]
+}
